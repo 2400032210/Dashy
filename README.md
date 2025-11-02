@@ -88,6 +88,20 @@
 - 🔐 Strong focus on privacy
 - 🌈 And loads more...
 
+## 🙏 Acknowledgements
+
+- [Dashy](https://github.com/Lissy93/dashy) — for project inspiration and base structure  
+- [React](https://reactjs.org) and [Tailwind CSS](https://tailwindcss.com) — for building the UI  
+- [Vercel](https://vercel.com) — for hosting support  
+- [Open Source Icons](https://icons8.com) — for free icons  
+- Special thanks to all open-source contributors and the developer community ❤️  
+
+---
+
+**Developed by:** [Adireddy Lokesh](https://github.com/2400032210)  
+📧 **Email:** 2400032210@kluniversity.in  
+📜 **License:** [MIT](./LICENSE)
+
 ## Demo ⚡
 
 **Live Instances**: [Demo 1](https://demo.dashy.to) (Live Demo) ┆ [Demo 2](https://live.dashy.to) (Dashy Links) ┆ [Demo 3](https://dev.dashy.to) (Dev Preview)
