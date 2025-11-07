@@ -102,6 +102,9 @@
 📧 **Email:** 2400032210@kluniversity.in  
 📜 **License:** [MIT](./LICENSE)
 
+hi, i am jayanth 
+Add me to contribute
+
 ## Demo ⚡
 
 **Live Instances**: [Demo 1](https://demo.dashy.to) (Live Demo) ┆ [Demo 2](https://live.dashy.to) (Dashy Links) ┆ [Demo 3](https://dev.dashy.to) (Dev Preview)
