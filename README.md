@@ -105,6 +105,8 @@
 hi, i am jayanth 
 Add me to contribute
 
+I am a Contributer
+
 ## Demo ⚡
 
 **Live Instances**: [Demo 1](https://demo.dashy.to) (Live Demo) ┆ [Demo 2](https://live.dashy.to) (Dashy Links) ┆ [Demo 3](https://dev.dashy.to) (Dev Preview)
