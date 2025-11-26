@@ -653,6 +653,7 @@ A few self-hosted web apps serve a similar purpose to Dashy. If you're looking f
 
 **[⬆️ Back to Top](#dashy)**
 
+I am a contributer
 ---
 ## License 📜
 
